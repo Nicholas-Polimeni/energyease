@@ -176,7 +176,7 @@ with col2:
                 + washer
                 + (lights * 0.15)
                 + (appliances * 0.75)
-            ) // 15
+            ) // 20
             print(
                 (
                     type_of_home_score[type_of_home]
